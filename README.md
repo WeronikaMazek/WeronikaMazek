@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Python for Bioinformatics and working on my Portfolio.
+- 🌱 I’m currently learning Python for Bioinformatics.
 - 📫 How to reach me: mazekweronika@gmail.com
 
