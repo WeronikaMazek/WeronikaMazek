@@ -8,7 +8,7 @@ Python for Bioinformatics (BioPython, sequence alignment, genome assembly), Mach
 
 R for Statistical Analysis: hypothesis testing, linear models, data visualisation.
 
-## Completed Projects:
+## ☑️ Completed Projects:
 
 [ML_Metabolomics_Crohns_Disease](https://github.com/WeronikaMazek/ML_Metabolomics_Crohns_Disease.git) ⬅︎
 ***Determining the Most Diagnostic Sample Type for Crohn's Disease Identification using GC-MS and Machine Learning***
