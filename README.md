@@ -4,7 +4,7 @@
 
 **📚 Currently learning:**
 
-Python for Bioinformatics (BioPython, sequence alignment, genome assembly), Machine Learning (PyTorch & Keras), Data Science (data preprocessing, data visualisation).
+Python for Bioinformatics (BioPython), Machine Learning (PyTorch & Keras), Data Science (data preprocessing, data visualisation).
 
 R for Statistical Analysis: hypothesis testing, linear models, data visualisation.
 
