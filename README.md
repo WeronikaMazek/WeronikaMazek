@@ -13,6 +13,8 @@ R for Statistical Analysis: hypothesis testing, linear models, data visualisatio
 [ML_Metabolomics_Crohns_Disease](https://github.com/WeronikaMazek/ML_Metabolomics_Crohns_Disease.git) ⬅︎
 ***Determining the Most Diagnostic Sample Type for Crohn's Disease Identification using GC-MS and Machine Learning***
 
+[GWAS_Linear_Regression](https://github.com/WeronikaMazek/GWAS_Linear_Regression) ⬅︎ ***Association of allelic variants at different SNP loci with Disease Susceptibility – Linear Regression Models for Genetic Association Analyses***
+
 ## 🌱 Projects in Progress:
 
 ***Protein Secondary Structure Prediction***
