@@ -1,12 +1,8 @@
 # Hi there 👋
 
-🎓 I'm studying for a master's degree in Bioinformatics at Queen Mary University of London.
+🎓 I'm studying for a master's degree in Bioinformatics at Queen Mary University of London. 
 
-**📚 Currently learning:**
-
-Python for Bioinformatics (BioPython), Machine Learning (PyTorch & Keras), Data Science (data preprocessing, data visualisation).
-
-R for Statistical Analysis: hypothesis testing, linear models, data visualisation.
+⬇️ Take a look below to explore some of my projects, skills and tools I’ve build along the way.
 
 ## ☑️ Completed Projects:
 
@@ -45,11 +41,11 @@ Data Science & Statistical Analysis: *Pandas, NumPy, Matplotlib, Seaborn, SciPy*
 
 ### R Tools
 
-Visualisation: *ggplot2*
+Visualisation: *ggplot2*, *patchwork*
 
-Data Manipulation: *dplyr, tidyr*
+Data Manipulation: *tidyverse: dplyr*
 
-Bioinformatics: *Bioconductor, DESeq2*
+Bioinformatics: *Bioconductor*
 
 ## 📫 How to reach me:
 📧 mazekweronika@gmail.com
