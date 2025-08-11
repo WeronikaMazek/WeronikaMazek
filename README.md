@@ -13,23 +13,6 @@
 
 ## 🌱 Projects in Progress:
 
-***Protein Secondary Structure Prediction***
-
-*This project predicts protein secondary structures (alpha helices, beta sheets, and coils) from amino acid sequences using Keras. The work applies deep learning to sequence modeling, focusing on improving prediction accuracy and scalability for bioinformatics applications.*
-
-・Key Features: Deep Learning for Sequence Modeling: Implementing RNNs and LSTMs in Keras to capture patterns in protein sequences.
-
-・Scalable Solutions: Preprocessing and training on large datasets like CB513 to handle real-world bioinformatics challenges.
-
-・Optimisation: Experimenting with hyperparameters, architecture tuning, and attention mechanisms for enhanced performance.
-
-☑︎ *Current Progress:*
-
-*Data preprocessing:* In Progress
-
-*Model building and testing:* In Progress
-
-*Optimisation and evaluation:* Upcoming
 
 ## 💻 Key skills & tools:
 
