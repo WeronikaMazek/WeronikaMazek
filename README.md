@@ -13,7 +13,7 @@
 
 ## 🌱 Projects in Progress:
 
-[IMIDs](https://github.com/WeronikaMazek/IMIDs) ⬅︎ ***Unraveling Sex-Specific Gene Expression in Immune-Mediated Inflammatory Diseases (IMIDs) using Transcriptomic Interaction Models***
+[IMIDs](https://github.com/WeronikaMazek/IMIDs) ⬅︎ ***Unraveling Sex-Specific Gene Expression in Immune-Mediated Inflammatory Diseases (IMIDs) using Transcriptomic Interaction Models and Enrichment Analysis***
 
 ## 💻 Key skills & tools:
 
