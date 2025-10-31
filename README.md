@@ -29,7 +29,7 @@ Visualisation: *ggplot2*, *patchwork*
 
 Data Manipulation/Wrangling: *tidyverse: dplyr*
 
-Bioinformatics: **Bioconductor** (*DESeq2, edgeR, limma*), **Statistical/Pathways** (*clusterProfiler*)
+Bioinformatics: Bioconductor (*DESeq2, edgeR, limma*), Statistical/Pathways (*clusterProfiler*)
 
 ## 📫 How to reach me:
 📧 mazekweronika@gmail.com
