@@ -13,6 +13,7 @@
 
 ## 🌱 Projects in Progress:
 
+[IMIDs](https://github.com/WeronikaMazek/IMIDs) ⬅︎ ***Unraveling Sex-Specific Gene Expression in Immune-Mediated Inflammatory Diseases (IMIDs) using Transcriptomic Interaction Models***
 
 ## 💻 Key skills & tools:
 
@@ -26,9 +27,9 @@ Data Science & Statistical Analysis: *Pandas, NumPy, Matplotlib, Seaborn, SciPy*
 
 Visualisation: *ggplot2*, *patchwork*
 
-Data Manipulation: *tidyverse: dplyr*
+Data Manipulation/Wrangling: *tidyverse: dplyr*
 
-Bioinformatics: *Bioconductor*
+Bioinformatics: **Bioconductor** (*DESeq2, edgeR, limma*), **Statistical/Pathways** (*clusterProfiler*)
 
 ## 📫 How to reach me:
 📧 mazekweronika@gmail.com
