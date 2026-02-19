@@ -13,11 +13,9 @@
 
 ## 🌱 Projects in Progress (Private):
 
-[IMIDs](https://github.com/WeronikaMazek/IMIDs) ⬅︎ ***Sex-Specific Transcriptomic Signatures in Immune-Mediated Inflammatory Diseases (IMIDs)***
-Using interaction modelling and enrichment analysis to characterise sex-dependent gene expression patterns across autoimmune diseases.
+[IMIDs](https://github.com/WeronikaMazek/IMIDs) ⬅︎ ***Sex-Specific Transcriptomic Analysis*** Investigating sex-dependent gene expression signatures in immune-mediated inflammatory diseases using interaction models, differential expression, and pathway enrichment analysis.
 
-[Software_Development](https://github.com/WeronikaMazek/Software_Development) ⬅︎ ***Directed Evolution Monitoring Portal***
-Full-stack development of a web-based platform for monitoring and analysing directed evolution experiments in DNA polymerase optimisation.
+[Software_Development](https://github.com/WeronikaMazek/Software_Development) ⬅︎ ***Directed Evolution Monitoring Web Portal*** Designing and implementing a Flask-based analytical platform integrating UniProt API, plasmid validation, DNA-to-protein translation, mutation classification, and activity-score visualisation within a DBTL framework.
 
 ## 💻 Key skills & tools:
 
