@@ -11,9 +11,11 @@
 
 [GWAS_Linear_Regression](https://github.com/WeronikaMazek/GWAS_Linear_Regression) ⬅︎ ***Association of allelic variants at different SNP loci with Disease Susceptibility – Linear Regression Models for Genetic Association Analyses***
 
-## 🌱 Projects in Progress:
+## 🌱 Projects in Progress (Private for now):
 
-[IMIDs](https://github.com/WeronikaMazek/IMIDs) ⬅︎ ***Unraveling Sex-Specific Gene Expression in Immune-Mediated Inflammatory Diseases (IMIDs) using Transcriptomic Interaction Models and Enrichment Analysis***
+[IMIDs](https://github.com/WeronikaMazek/IMIDs) ⬅︎ ***Sex-Specific Gene Expression in Immune-Mediated Inflammatory Diseases (IMIDs) using Transcriptomic Interaction Models and Enrichment Analysis***
+
+[Software_Development](https://github.com/WeronikaMazek/Software_Development) ⬅︎ ***Direct Evolution Monitoring Software Development Project*** 
 
 ## 💻 Key skills & tools:
 
