@@ -1,10 +1,14 @@
 # Hi there 👋
 
-🎓 I'm studying for a master's degree in Bioinformatics at Queen Mary University of London. 
+🎓 I'm a master's student in **Bioinformatics** at **Queen Mary University of London**, working at the intersection of computational biology, machine learning, and data science.
 
-⬇️ Take a look below to explore some of my projects, skills and tools I’ve build along the way.
+🔬 My work spans transcriptomics, metabolomics, GWAS, and software development — with a focus on applying statistical and ML methods to biological questions.
+
+⬇️ Take a look below to explore some of my projects, skills and tools I've built along the way.
 
 ## ☑️ Completed Projects:
+
+[Software_Development](https://github.com/BIO727P-Sierra/Software_Development_Project) ⬅︎ ***Directed Evolution Monitoring Web Portal*** A full-stack Flask/PostgreSQL app for analysing directed evolution experiments, featuring UniProt integration, multi-frame ORF detection, and codon-level mutation calling. Includes a parallelised analysis pipeline, 3D activity landscapes, and Docker Compose deployment.
 
 [ML_Metabolomics_Crohns_Disease](https://github.com/WeronikaMazek/ML_Metabolomics_Crohns_Disease.git) ⬅︎
 ***Determining the Most Diagnostic Sample Type for Crohn's Disease Identification using GC-MS and Machine Learning***
@@ -15,23 +19,21 @@
 
 [IMIDs](https://github.com/WeronikaMazek/IMIDs) ⬅︎ ***Sex-Specific Transcriptomic Analysis*** Investigating sex-dependent gene expression signatures in immune-mediated inflammatory diseases using interaction models, differential expression, and pathway enrichment analysis.
 
-[Software_Development](https://github.com/BIO727P-Sierra/Software_Development_Project) ⬅︎ ***Directed Evolution Monitoring Web Portal*** A full-stack Flask/PostgreSQL app for analysing directed evolution experiments, featuring UniProt integration, multi-frame ORF detection, and codon-level mutation calling. Includes a parallelised analysis pipeline, 3D activity landscapes, and Docker Compose deployment.
-
 ## 💻 Key skills & tools:
-
 ### Python Tools
-
 Machine Learning: *Scikit-learn*
-
 Data Science & Statistical Analysis: *Pandas, NumPy, Matplotlib, Seaborn, SciPy*
+Bioinformatics: *Biopython*
 
 ### R Tools
-
 Visualisation: *ggplot2*, *patchwork*
-
 Data Manipulation/Wrangling: *tidyverse: dplyr*
-
 Bioinformatics: Bioconductor (*DESeq2, edgeR, limma*), Statistical/Pathways (*clusterProfiler*)
+
+### Additional Tools & Technologies
+Containerisation: *Docker*
+Web Development: *Flask, REST APIs*
+Database: *PostgreSQL, SQL*
 
 ## 📫 How to reach me:
 📧 mazekweronika@gmail.com
