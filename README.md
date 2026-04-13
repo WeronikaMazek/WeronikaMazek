@@ -1,10 +1,11 @@
 # Hi there 👋
 
-🎓 I'm a master's student in **Bioinformatics** at **Queen Mary University of London**, working at the intersection of computational biology, machine learning, and data science.
+🎓 I'm a master's student in **Bioinformatics** at **Queen Mary University of London**
 
-🔬 My work spans transcriptomics, metabolomics, GWAS, and software development — with a focus on applying statistical and ML methods to biological questions.
+🔬 I work with biological data using statistics, machine learning, and a lot of R and Python.
 
 ⬇️ Take a look below to explore some of my projects, skills and tools I've built along the way.
+
 
 ## ☑️ Completed Projects:
 
