@@ -1,8 +1,8 @@
 # Hi there 👋
 
-🎓 I'm a master's student in **Bioinformatics** at **Queen Mary University of London**
+🎓 I'm a master's student in **Bioinformatics** at **Queen Mary University of London**.
 
-🔬 I work with biological data using statistics, machine learning, and a lot of R and Python.
+🔬 I'm interested in what immunogenetics data can tell us — and I use R, Python, statistics, and machine learning to find out.
 
 ⬇️ Take a look below to explore some of my projects, skills and tools I've built along the way.
 
