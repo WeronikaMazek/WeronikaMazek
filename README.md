@@ -15,7 +15,7 @@
 
 [IMIDs](https://github.com/WeronikaMazek/IMIDs) ⬅︎ ***Sex-Specific Transcriptomic Analysis*** Investigating sex-dependent gene expression signatures in immune-mediated inflammatory diseases using interaction models, differential expression, and pathway enrichment analysis.
 
-[Software_Development](https://github.com/BIO727P-Sierra/Software_Development_Project) ⬅︎ ***Directed Evolution Monitoring Web Portal*** Designing and implementing a Flask-based analytical platform integrating UniProt API, plasmid validation, DNA-to-protein translation, mutation classification, and activity-score visualisation within a DBTL framework.
+[Software_Development](https://github.com/BIO727P-Sierra/Software_Development_Project) ⬅︎ ***Directed Evolution Monitoring Web Portal*** A full-stack web application for analysing directed evolution experiments, built with Flask and PostgreSQL. Users can register and log in, save and delete experiments, and generate downloadable reports. The pipeline fetches wild-type protein data from the UniProt REST API, validates uploaded plasmid FASTA and experiment data files, detects ORFs across both strands and all reading frames, calls codon-level mutations, and computes baseline-corrected activity scores. Visualisations include a 3D interactive activity landscape, generation-level box plots, and per-variant mutation fingerprints. The analysis pipeline is parallelised with PostgreSQL advisory locks and fully containerised with Docker Compose.
 
 ## 💻 Key skills & tools:
 
