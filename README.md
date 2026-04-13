@@ -20,20 +20,34 @@
 [IMIDs](https://github.com/WeronikaMazek/IMIDs) ⬅︎ ***Sex-Specific Transcriptomic Analysis*** Investigating sex-dependent gene expression signatures in immune-mediated inflammatory diseases using interaction models, differential expression, and pathway enrichment analysis.
 
 ## 💻 Key skills & tools:
+
 ### Python Tools
-Machine Learning: *Scikit-learn*
-Data Science & Statistical Analysis: *Pandas, NumPy, Matplotlib, Seaborn, SciPy*
-Bioinformatics: *Biopython*
+
+**Machine Learning:** *Scikit-learn*
+
+**Data Science & Statistical Analysis:** *Pandas, NumPy, Matplotlib, Seaborn, SciPy*
+
+**Bioinformatics:** *Biopython*
+
 
 ### R Tools
-Visualisation: *ggplot2*, *patchwork*
-Data Manipulation/Wrangling: *tidyverse: dplyr*
-Bioinformatics: Bioconductor (*DESeq2, edgeR, limma*), Statistical/Pathways (*clusterProfiler*)
+
+**Visualisation:** *ggplot2*, *patchwork*
+
+**Data Manipulation/Wrangling:** *tidyverse: dplyr*
+
+**Bioinformatics:** Bioconductor (*DESeq2, edgeR, limma*), 
+
+Statistical/Pathways (*clusterProfiler*)
+
 
 ### Additional Tools & Technologies
-Containerisation: *Docker*
-Web Development: *Flask, REST APIs*
-Database: *PostgreSQL, SQL*
+
+**Containerisation:** *Docker*
+
+**Web Development:** *Flask, REST APIs*
+
+**Database:** *PostgreSQL, SQL*
 
 ## 📫 How to reach me:
 📧 mazekweronika@gmail.com
